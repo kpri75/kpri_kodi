@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+    
     <item>
-        <title>TITULO 1</title>
+        <title>otra cosa</title>
         <urlsolver>https://www.youtube.com/watch?v=TtviKoI0qE8</urlsolver>
         <thumbnail>http://channel.png</thumbnail>
         <genre>GENERO 1</genre>
