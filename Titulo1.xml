@@ -5,10 +5,10 @@
     <item>
         <title>otra cosa</title>
         <urlsolver>https://www.youtube.com/watch?v=pZreVnqo_e0</urlsolver>
-        <thumbnail>http://channel.png</thumbnail>
+        <thumbnail>http://icon.jpg</thumbnail>
         <genre>GENERO 1</genre>
-        <info>INFORMACIÓN ACTUALIZADA</info>
-        <date>15.10.2018</date>  <!-- format - dd.mm.yyyy -->
+        <info>INFORMACIÓN ACTUALIZADA lunes</info>
+        <date>16.10.2018</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
+        <fanart>http://fanart.png</fanart>
     </item> 
