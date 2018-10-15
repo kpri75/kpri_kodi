@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+    <item>
+        <title>TITULO 1</title>
+        <urlsolver>https://www.youtube.com/watch?v=TtviKoI0qE8</urlsolver>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>GENERO 1</genre>
+        <info>INFORMACIÓN 1</info>
+        <date>15.10.2018</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart>http://fanart.jpg</fanart>
+    </item>
+    
+	

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+    <item>
+        <title>TITULO 1</title>
+        <link>mms://some/place/pokerchannel</link>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>GENERO 1</genre>
+        <info>INFORMACIÓN 1</info>
+        <date>15.10.2018</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart>http://fanart.jpg</fanart>
+    </item>
+    
+	
+ <item>
+        <title>TITULO 2</title>
+        <link>mms://some/place/pokerchannel</link>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>GENERO 2</genre>
+        <info>INFORMACIÓN 2</info>
+        <date>15.10.2018</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart>http://fanart.jpg</fanart>
+    </item>
